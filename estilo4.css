@@ -1,0 +1,18 @@
+*
+header
+{
+	margin:5px;
+}
+section
+{
+	color:grey;
+	font-family:verdana;
+	margin:25px;
+	padding:55px;
+}
+footer
+{
+	background-color: grey;
+	margin:100px;
+	padding:10px;
+}

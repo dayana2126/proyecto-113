@@ -1,0 +1,26 @@
+*
+body
+{
+	background-image: url("blurry.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+header
+{
+	margin:5px;
+}
+section
+{
+	color:red;
+	font-family:verdana;
+	margin:20px;
+	padding:55px;
+}
+footer
+{
+	background-color: red;
+	margin:100px;
+	padding:10px;
+}
